@@ -1,0 +1,173 @@
+.container-manu{
+  margin: 30px 0px;
+}
+.nav-item a{
+  color: black;
+}
+#carouselExampleCaptions{
+  width: 100% ;
+  height: 500px;
+}
+#carouselExampleCaptions img{
+  width: 100% ;
+  height: 500px;
+}
+.carouselBtn{
+  background: rgb(243, 240, 240);
+  height: 30px;
+  width: 80px;
+  color: black;
+  border-radius: 5px;
+  text-align: center;
+  font-weight: 600;
+}
+ 
+.vanueTxt{
+  font-size: 30px;
+}
+ 
+.card01{
+  margin-top: 50px;
+  /* background: #000; */ 
+  height: 370px;
+  width: 265px;
+  /* background: rgb(26, 110, 189); */
+  padding-top: 70px;
+}
+ 
+.card-price{
+  font-size: 25px;
+  margin-left:40px;
+  }
+  .card-title{
+    font-size: 28px;
+  margin-left:40px;    
+  }
+  .card-txt{
+    font-size: 18px;
+    margin-left: 40px;
+  }
+.check{
+  margin-left: 30px;
+  padding: 5px 0px;
+  /* text-align: center; */
+}
+.conertImg img{
+  width: 500px;
+  height: 220px;
+  margin-top: 10px;
+}
+.nav-item  {
+  font-size: 20px;
+font-weight: 300px !important;
+}
+ .check span{
+   width: 50px;
+   height: 50px;
+ margin: 0 10px;
+ text-align: center;
+   border-radius: 50%;
+   text-align: center;
+   /* background: rgb(231, 227, 227); */
+ }
+  .check span i{
+ font-size: 10px ;
+color: rgb(51, 47, 47);
+}
+.card-btn{
+  height: 30px;
+  text-align: center;
+  width: 100px;
+  margin-left: 40px;
+  border-radius: 5px;
+  /* padding: 20px  ; */
+  margin-top: 10px;
+  color: white;
+  background: rgb(206, 34, 191);
+}
+
+/* FOR CARD 03  */
+.card03{
+  border-radius: 10px;
+  padding-top: 20px;
+  margin: 20px 0px;
+  margin-top: 70px;
+  /* background: #000; */ 
+  /* margin-top:  ; */
+  height: 400px;
+  box-shadow: 1px 4px 7px -2px rgba(121, 117, 117, 0.83);
+  width: 265px;
+  background: rgb(125, 176, 224);
+ position: relative;
+}
+.topTxt3{
+  width: 38px;
+  height: 20px;
+  font-size: 15px;
+  text-align: center;
+  border-radius: 8px;
+  top: -2%;
+  right: 10%;
+  position: absolute;
+  background: rgb(92, 112, 228);;
+  color: white;
+}
+.card-price3{
+  font-size: 25px;
+  margin-left:40px;
+  }
+  .card-title3{
+    font-size: 28px;
+  margin-left:40px;    
+  }
+  .card-txt3{
+    font-size: 18px;
+    margin-left: 40px;
+  }
+.check3{
+  margin-left: 30px;
+  padding: 5px 0px;
+  /* text-align: center; */
+}
+ .check3 span{
+   width: 50px;
+   height: 50px;
+ margin: 0 10px;
+ text-align: center;
+   border-radius: 50%;
+   text-align: center;
+   /* background: rgb(231, 227, 227); */
+ }
+  .check3 span i{
+ font-size: 10px ;
+ /* bag  */
+color: #ffffff;
+}
+.card-btn3{
+  height: 30px;
+  font-size: 15px;
+  text-align: center;
+  width: 100px;
+  margin-left: 40px;
+  border-radius: 5px;
+  margin-top: 10px;
+  /* padding: 20px  ; */
+  /* margin-top: 10px; */
+  color: white;
+  background: rgb(206, 34, 191);
+}
+
+/* END  */
+
+/* FOOTER  */
+.footer{
+  width: 100%;
+  height: 200px;
+  background: rgb(46, 44, 44);
+}
+.appPlay img{
+  width: 180px;
+  height:60px;
+  padding: 10px;
+
+}
